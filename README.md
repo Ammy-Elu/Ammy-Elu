@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ammy-Elu
-- 👀 I’m interested in the role of data science in making quality business decisions and sustainable services in health and agricultural environments
+- 👋 Hi, I’m Akpala Amarachi Eluojo
+- 👀 I’m interested in the roles data science play in making quality business decisions and sustainable services in health and agricultural environments
 - 🌱 I’m currently picking up skills as a data analyst such as storytelling,data cleaning and exploration, and data visualization.
 - 💞️ I’m looking to collaborate on projects focused on healthcare and agricultural services
 - 📫 How to reach me; akpalaaamarachi22@gmail.com
